@@ -32,7 +32,10 @@ LinkedIn: https://www.linkedin.com/in/reese-rapin/
 *January 2022 – May 2022 (Co-op/Full-time)*  
 - Used Test Driven Development to program on MacOS in Visual Studio Code with JavaScript, C, and Lua  
 - Modified and developed new REPL commands and added Jasmine Tests for Service Scripts tool which configures software update devices  
-- Built a Micro Sumo Fighting Robot in accordance with Unified Sumo Robot Rules  
+- Built a Micro Sumo Fighting Robot in accordance with Unified Sumo Robot Rules
+
+**Skills/expertise areas**   
+- C, C++, Git, GitHub Actions, Python, Lua, Dart, Flutter, SQL, VBA, LabVIEW, Node.js, MATLAB, Soldering, Android Studio, Squish, KiCad,
 
 ## AREAS OF INTEREST/TYPE OF PROJECT SOUGHT
 - Embedded Development
